@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Kora Corner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="mark_saeid">Mark Saeid</string>
+    <string name="student">student</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">home</string>
+
+    <string name="hello_that_is_my_simple_application_for_my_profile">Hello that is my simple application for my profile</string>
+
+    <string name="title_activity_map">Map</string>
+
+    <string name="my_name_mark_saeid">My Name : Mark Saeid</string>
+    <string name="my_faculty_computer_science">My Faculty : Computer Science</string>
+    <string name="my_university_elshrouk_academy">My University : Elshrouk Academy</string>
+    <string name="my_city_obour_city">My City : Obour City</string>
+    <string name="my_fav_club_zamalek_sc">My Fav Club : Zamalek SC</string>
+    <string name="title_activity_maps" />
+    <string name="hello_there_that_s_my_basic_app">Hello there that\'s my basic app</string>
+    <string name="i_am_fragment_3">I am Fragment 3</string>
+    <string name="https_www_facebook_com_mark_saeid_90">https://www.facebook.com/mark.saeid.90</string>
+    <string name="www_linkedin_com_in_mark_saeid_7639a5187">www.linkedin.com/in/mark-saeid-7639a5187/</string>
+    <string name="_01227887286">01227887286</string>
+    <string name="notification">notification</string>
+
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="fcm_message">Notification</string>
+    <string name="textview">TextView</string>
+
+    <string name="name" />
+
+    <string name="email" />
+    <string name="title">Title</string>
+    <string name="this_will_be_the_description_of_the_post">This will be the description of the post</string>
+    <string name="news">News</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_email">Change Email</string>
+    <string name="delete_user">Delete User</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="info">info</string>
+    <string name="contact">contact</string>
+    <string name="account">Account</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="zamalek_news">Zamalek News</string>
+
+    <string name="web_client_id">865087233306-atmkq32bd01k89fb11csv2ooms7gium8.apps.googleusercontent.com</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+
+</resources>

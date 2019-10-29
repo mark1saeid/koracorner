@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/hm"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_channel"
+            android:icon="@drawable/live"
+            android:title="Channel" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/acc"
+            android:title="@string/account" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/video"
+            android:title="Videos" />
+        <item
+            android:id="@+id/nav_table"
+            android:icon="@drawable/match"
+            android:title="Table" />
+
+
+
+
+    </group>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_chat"
+                android:icon="@drawable/chat"
+                android:title="Chat" />
+
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/contacts"
+                android:title="contact us" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share" />
+        </menu>
+    </item>
+
+
+
+</menu>

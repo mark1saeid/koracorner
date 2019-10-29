@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="content_frame" type="id" />
+    <item name="fab" type="id" />
+    <item name="frame_container" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="nav_view" type="id" />
+    <item name="userName_textView" type="id" />
+    <item name="userSurname_textView" type="id" />
+    <item name="user_number_textView" type="id" />
+</resources>
